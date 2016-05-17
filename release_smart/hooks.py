@@ -8,7 +8,7 @@ app_description = "release"
 app_icon = "octicon octicon-file-directory"
 app_color = "grey"
 app_email = "revant.one@gmail.com"
-app_version = "0.0.5"
+app_version = "0.0.6"
 app_license = "GPL v3"
 
 # Includes in <head>
