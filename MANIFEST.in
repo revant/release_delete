@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include release_smart *.css
+recursive-include release_smart *.csv
+recursive-include release_smart *.html
+recursive-include release_smart *.ico
+recursive-include release_smart *.js
+recursive-include release_smart *.json
+recursive-include release_smart *.md
+recursive-include release_smart *.png
+recursive-include release_smart *.py
+recursive-include release_smart *.svg
+recursive-include release_smart *.txt
+recursive-exclude release_smart *.pyc
